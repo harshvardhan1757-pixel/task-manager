@@ -77,5 +77,6 @@ This project is distributed for educational and personal use. Modify and share f
 
 ### Author
 
-Created by [Your Name].
+Created by [Name- Harsh Vardhan Rai REGISTRATION NUMBER- 25BAI10401].
 For feedback or suggestions, open an issue or contact directly.
+
